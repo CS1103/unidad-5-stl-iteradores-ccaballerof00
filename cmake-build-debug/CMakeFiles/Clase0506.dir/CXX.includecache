@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/utec/Escritorio/Clase0506/ArithProgression.h
+GeoProgression.h
+/home/utec/Escritorio/Clase0506/GeoProgression.h
+
+/home/utec/Escritorio/Clase0506/GeoProgression.h
+
+/home/utec/Escritorio/Clase0506/main.cpp
+iostream
+-
+GeoProgression.h
+/home/utec/Escritorio/Clase0506/GeoProgression.h
+ArithProgression.h
+/home/utec/Escritorio/Clase0506/ArithProgression.h
+
